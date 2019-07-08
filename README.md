@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## TeamTaoist Studio
 
-You can use the [editor on GitHub](https://github.com/xrdavies/gisttest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+TeamTaoist Studio是针对区块链游戏成立的游戏工作室，专注区块链游戏制作、发行和区块链游戏技术发展。团队前身是专注手游领域注重创新和探索，拥有8年手游制作经验的手游公司核心团队，先后制作三十多款游戏，拥有多种游戏类型制作经验，在市场上获得成功并成功被上市公司收购。现团队调整业务进入区块链游戏领域，旨在制作优秀的区块链游戏，推动区块链游戏行业的发展。当前TeamTaoist Studio团队规模8人，已经发布一款游戏，同时支持Ethereum，EOS和TRON智能合约，并在TRON Accelerator大赛中获奖，并且团队自研了Android App支持Ethereum游戏方便用户在移动设备上体验区块链游戏，扩大区块链游戏用户规模。目前团队正在研发新的全链休闲社交游戏，旨在通过此款游戏让大众正确认知区块链游戏。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 团队历史作品
 
 ### Markdown
 
