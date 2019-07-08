@@ -9,7 +9,7 @@ TeamTaoist Studio是针对区块链游戏成立的游戏工作室，专注区块
 
 <p> 
     <div class="video-container">
-        <iframe width="95%" height="450" src="https://v.miaopai.com/iframe?scid=SvyHaHOczsp7B6ftW86oqMMz62-h5ai6~Fwp8A__" frameborder="0" scrolling="no" allowfullscreen></iframe>
+        <iframe width="95%" height="450" src="http://player.youku.com/embed/XNDA3MjYzNjI0MA==" frameborder="0" scrolling="no" allowfullscreen></iframe>
     </div>
     <style type="text/css">
         .video-container {
