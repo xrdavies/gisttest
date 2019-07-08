@@ -6,11 +6,30 @@ TeamTaoist Studio是针对区块链游戏成立的游戏工作室，专注区块
 
 ### Redfox（暂定名）
 [![Redfox](https://github.githubassets.com/apple-touch-icon.png)](http://player.youku.com/embed/XNDA3MjYzNjI0MA==)
-<html>
-<iframe src='http://player.youku.com/embed/XNDA3MjYzNjI0MA==' frameborder=0 'allowfullscreen'></iframe>
-</html>
 
-<video src="http://qiniu.swarma.org/newUser.mp4" controls="controls" width="100%" height="auto"/>
+<p> 
+    <div class="video-container">
+        <iframe width="95%" height="450" src="https://v.miaopai.com/iframe?scid=SvyHaHOczsp7B6ftW86oqMMz62-h5ai6~Fwp8A__" frameborder="0" scrolling="no" allowfullscreen></iframe>
+    </div>
+    <style type="text/css">
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%;
+            padding-top: 30px;
+            height: 0;
+            overflow: hidden;
+        }
+        .video-container iframe {
+            position: absolute;
+            top:0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+<p> 
+
+`<video src="http://qiniu.swarma.org/newUser.mp4" controls="controls" width="100%" height="auto"/>`
 
 
 ### Markdown
