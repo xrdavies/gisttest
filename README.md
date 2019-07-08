@@ -4,6 +4,15 @@ TeamTaoist Studio是针对区块链游戏成立的游戏工作室，专注区块
 
 ## 团队历史作品
 
+### Redfox（暂定名）
+[![Redfox](https://github.githubassets.com/apple-touch-icon.png)](http://player.youku.com/embed/XNDA3MjYzNjI0MA==)
+<html>
+<iframe src='http://player.youku.com/embed/XNDA3MjYzNjI0MA==' frameborder=0 'allowfullscreen'></iframe>
+</html>
+
+<video src="http://qiniu.swarma.org/newUser.mp4" controls="controls" width="100%" height="auto"/>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
